@@ -1,2 +1,1 @@
-# Ganader-a
-Este es
+# Ganaderia
